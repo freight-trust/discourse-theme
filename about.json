@@ -1,0 +1,22 @@
+{
+  "name": "freighttrust-discourse",
+  "about_url": "URL",
+  "license_url": "URL",
+  "assets": {
+    "$bgimg": ""
+  },
+  "color_schemes": {
+    "hashi": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "1563ff",
+      "quaternary": "1563ff",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "d9e1e6",
+      "danger": "ca2171",
+      "success": "00bc7f",
+      "love": "5f43e9"
+    }
+  }
+}

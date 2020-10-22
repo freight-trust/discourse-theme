@@ -1,0 +1,23 @@
+{
+  "name": "freight-trust-discourse-theme",
+  "version": "1.0.0",
+  "description": "discourse theme ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-trust/discourse-theme.git"
+  },
+  "keywords": [
+    "discourse",
+    "theme"
+  ],
+  "author": "see license",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freight-trust/discourse-theme/issues"
+  },
+  "homepage": "https://github.com/freight-trust/discourse-theme#readme"
+}
